@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182133401794",
+    "project_id": "d-tower-stack",
+    "storage_bucket": "d-tower-stack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182133401794:android:16d7c5dd41b3a2ff5b335b",
+        "android_client_info": {
+          "package_name": "com.everbrosgames.TowerStack3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182133401794-tovsdgf4cg0co39ntvkg0i9u9ia1d5dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vYb5C__72fgX9qp6Q34Vcu0QZ-fvOPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182133401794-tovsdgf4cg0co39ntvkg0i9u9ia1d5dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
